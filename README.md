@@ -4,7 +4,7 @@ These are the archives of Mass Effect 3 and Mass Effect Andromeda multiplayer ru
 
 Mass Effect Themed Challenges and Halls of Fame are hosted at https://www.prestaciouschallenges.com. This is only a repository for the data.
 
-A detailed description of the project eill eventually become available here:
+A detailed description of the project will eventually become available here:
 
 1. Introduction https://www.smehur.com/mass-effect-multiplayer-challenges-and-halls-of-fame/
 2. Platinum Solos Hall of Fame (PHoF)

@@ -7,7 +7,7 @@ Mass Effect Themed Challenges and Halls of Fame are hosted at https://www.presta
 A detailed description of the project will eventually become available here:
 
 1. Introduction https://www.smehur.com/mass-effect-multiplayer-challenges-and-halls-of-fame/
-2. Platinum Solos Hall of Fame (PHoF)
+2. Platinum Solos Hall of Fame (PHoF) https://www.smehur.com/platinum-solos-hall-of-fame/
 3. Match Statistics for PHoF
 4. Themed Challenges
 5. Halls of Fame for Themed Challenges (TCHoF)

@@ -10,5 +10,5 @@ A detailed description of the project will eventually become available here:
 2. [Platinum Solos Hall of Fame (PHoF)](https://www.smehur.com/platinum-solos-hall-of-fame/)
 3. Match Statistics for PHoF
 4. [Themed Challenges](https://www.smehur.com/themed-challenges/)
-5. Halls of Fame for Themed Challenges (TCHoF)
+5. [Halls of Fame for Themed Challenges (TCHoF)](https://www.smehur.com/themed-challenges-halls-of-fame/)
 6. Match Statistics for TCHoF
